@@ -1,9 +1,9 @@
 # file-open-resume
 
 
-A substitute for `open()` that lets you resume from where you left off.
+A substitute for `open()` that let you resume from where you left off.
 
-Very use full for consuming large files, or running a ETL script.
+Very useful for consuming large files, or running a ETL script.
 
 
 # Example
